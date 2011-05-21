@@ -1,0 +1,122 @@
+1.
+
+Ágil como Bruce Lee
+
+João Vortmann jvortmann@thoughtworks.com
+Luiz Ribeiro  perdido@thoughtworks.com
+<data>
+
+2.
+
+Agenda
+
+3.
+
+O que é ser ágil?
+
+4.
+
+Usar Scrum? XP?
+Reuniões diárias? (1)
+TDD? (2, 4)
+Integração contínua? (1, 2, 4)
+Show-cases? (3)
+Programação em pares? (1, 2)
+Iterações? (1, 2, 3, 4)
+Retrospectiva? (
+
+5.
+
+NÃO
+
+6.
+
+...necessariamente....
+
+7.
+
+Por que?
+
+8.
+
+Antes.... um outro 'por que':
+Por que utilizamos essas práticas?
+
+9.
+
+Por que stand-ups?
+- compartilhar informações relevantes
+- auxiliar na identificação de problemas/impedimentos
+- levantar pontos em que algum integrante pode ajudar o outro
+
+Inventivar:
+- Colaboração entre os indivíduos
+(falar sobre experiencias)
+
+10.
+
+Por que TDD?
+- testes servem como verificação de requisitos
+- garante que após uma modificação, outros requisitos não são afetados
+- consequentemente, facilitam mudanças de requisitos
+- testes servem como documentação do projeto (le o teste pra entender o codigo/documentacao sempre atualizada)
+
+Incentivar:
+- Feedback curto (quebra, fixa, e já sabe que tá funfando)
+- Qualidade do código (ou seja, do produto)
+
+11.
+
+Por que integração contínua?
+- para informar rapidamente o time caso algo de errado (facilitando a sua resolução)
+- facilitar a manunteção do código em um estado saudável
+(falar de experiencias com colaboracao + ci - times distribuidos)
+
+Incentivar:
+- Feedback curto
+- Colaboração
+- Qualidade do código
+
+Por que show-cases?
+- Verificar quão alinhado o estado do produto está com o idealizado pelo cliente
+- Direcionar o andamento futuro do desenvolvimento com a necessidade do cliente
+
+Incentivar:
+- Feedback curto
+- Colaboração com o cliente
+
+
+
+Colaboração entre os indivíduos:
+Individuals and interactions over processes and tools
+
+Colaboração com o cliente:
+Customer collaboration over contract negotiation
+
+Qualidade do código:
+Valor do produto:
+Working software over comprehensive documentation
+
+Feedback curto:
+Responding to change over following a plan
+
+
+12.
+
+Por que iteraçoes?
+
+Falar da técnica e alinhar com um dos itens do manifesto.
+
+Puxar ideias do manifesto a partir de práticas e detalhá-las.
+
+Paralelo com metodologias tradicionais.
+
+Práticas dependem do time, do projeto, do ambiente.
+
+Porque o que importa são as ideias.
+
+Uma vez as ideias in place, times podem mudar as práticas.
+
+Adaptação + ideias
+
+Be water, my friend.
