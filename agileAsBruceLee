@@ -191,6 +191,13 @@ Atividade Intelectual e criativa:
   livre de arcadismos colabora fortemente nesse quesito.
 
 Qualidade:
+- qualidade de codigo e produto final eh um ponto muito relativo. O que faz geralmente
+  uma abordagem agil ser mais efetiva eh o que se entende como qualidade. Qualidade
+  nesse caso eh ter um produto de facil manutencao, com a menor quantidade de bugs
+  (e com sua rapida resolucao), e, o mais importante, o mais proximo do que o cliente
+  realmente deseja. Praticas como iteracoes e manter o cliente proximo melhoram a 
+  qualidade fortemente nesse sentido.
+
 Processo adaptativo:
 Feedback curto | Change change change
 
