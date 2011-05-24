@@ -209,8 +209,15 @@ Processo adaptativo:
   a maior possibilidade de sucesso (atingir as expectativa$$$ do cliente)
 
 Feedback curto | Change change change
-
-
+- o feedback curto eh um ponto relevante em varios niveis em uma abordagem agil.
+  Pode-se ver o feedback curto durante a programacao em par, onde um dos integrantes
+  detecta um erro que o outro integrante nao havia detectado, ou propoe uma solucao
+  diferente para o problema. Com a IC, onde todo o time fica siente do estado do codigo
+  quando da introducao de algum bug e age em seguida para soluciona-lo. E no nivel 
+  entre o cliente e o time de desenvolvimento, onde o cliente pode expor suas ideias
+  sobre a solucao desejada, obter ideias do time de desenvolvimento e vice-versa.
+  Novamente entrando em cena a ideia de adaptacao e alinhamento da melhor solucao
+  possivel e o menor time to market $$$$.
 
 Falar da técnica e alinhar com um dos itens do manifesto.
 
