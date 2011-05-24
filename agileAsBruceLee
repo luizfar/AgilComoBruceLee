@@ -162,6 +162,12 @@ E X E M P L O S
 
 I D E I A S
 Entrega de valor com frequencia: (e em menos tempo) | Time to market | $$
+
+- usando iteracoes com um tempo definido e que faca sentido para a estrutura do projeto
+  eh possivel entregar valor ao cliente de forma constante, reduzindo o time to market
+  e monetizando a aplicacao sem a necessidade dela contar todos os features previamente
+  pensados
+
 Comunicacao:
 Colaboracao:
 Atividade Intelectual e criativa:
