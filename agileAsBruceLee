@@ -167,6 +167,8 @@ Entrega de valor com frequencia: (e em menos tempo) | Time to market | $$
   e monetizando a aplicacao sem a necessidade dela contar todos os features previamente
   pensados
 
+21.
+
 Comunicacao:
 - com programacao em par tens a vantagem de code review on the fly, dois desenvolvedores
   com background diferentes e com approaches diferentes, o que beneficia uma solucao
@@ -176,12 +178,16 @@ Comunicacao:
   e o compartilhamento de conhecimento sobre tecnologias, dominio da aplicacao ou 
   ate sobre uma solucao de para um problema recorrente
 
+22.
+
 Colaboracao:
 - ter o cliente por perto como parte integrante do time beneficia um melhor entendimento
   sobre o dominio e sobre a solucao desejada. Torna a atividade de desenvolvimento menos
   burocratica, e a tomada de decisao muito mais agil e efetiva. A solucao encontrada
   geralmente esta mais alinhada com a real necessidade do cliente, o que representa
   o principal valor para o cliente.
+
+23.
 
 Atividade Intelectual e criativa:
 - seres humanos sao seres criativos e nao funcionam como maquinas. Manter as pessoas 8h
@@ -190,6 +196,8 @@ Atividade Intelectual e criativa:
   de concentracao, sem a necessidade de um regime industrial. Um ambiente agradavel e
   livre de arcadismos colabora fortemente nesse quesito.
 
+24.
+
 Qualidade:
 - qualidade de codigo e produto final eh um ponto muito relativo. O que faz geralmente
   uma abordagem agil ser mais efetiva eh o que se entende como qualidade. Qualidade
@@ -197,6 +205,8 @@ Qualidade:
   (e com sua rapida resolucao), e, o mais importante, o mais proximo do que o cliente
   realmente deseja. Praticas como iteracoes e manter o cliente proximo melhoram a 
   qualidade fortemente nesse sentido.
+
+25.
 
 Processo adaptativo:
 - o maior valor dos metodos ditos ageis eh a abordagem adaptativa que tomam. Responder
@@ -207,6 +217,8 @@ Processo adaptativo:
   Uma abordagem agil tenta minimizar o trabalho necessario para se realizar uma mudanca
   em relacao a solucao inicial, deixando o processo de desenvolvimento leve e com 
   a maior possibilidade de sucesso (atingir as expectativa$$$ do cliente)
+
+26.
 
 Feedback curto | Change change change
 - o feedback curto eh um ponto relevante em varios niveis em uma abordagem agil.
