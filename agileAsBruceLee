@@ -1,5 +1,4 @@
 1.
-
 Ágil como Bruce Lee
 
 João Vortmann jvortmann@thoughtworks.com
@@ -7,15 +6,12 @@ Luiz Ribeiro  perdido@thoughtworks.com
 <data>
 
 2.
-
 Agenda
 
 3.
-
 O que é ser ágil?
 
 4.
-
 Usar Scrum? XP?
 Reuniões diárias? (1)
 TDD? (2, 4)
@@ -26,24 +22,19 @@ Iterações? (1, 2, 3, 4)
 Retrospectiva? (
 
 5.
-
 NÃO
 
 6.
-
 ...necessariamente....
 
 7.
-
 Por que?
 
 8.
-
 Antes.... um outro 'por que':
 Por que utilizamos essas práticas?
 
 9.
-
 Por que stand-ups?
 - compartilhar informações relevantes
 - auxiliar na identificação de problemas/impedimentos
@@ -54,7 +45,6 @@ Incentivar:
 (falar sobre experiencias)
 
 10.
-
 Por que TDD?
 - testes servem como verificação de requisitos
 - garante que após uma modificação, outros requisitos não são afetados
@@ -66,7 +56,6 @@ Incentivar:
 - Qualidade do código (ou seja, do produto)
 
 11.
-
 Por que integração contínua?
 - para informar rapidamente o time caso algo de errado (facilitando a sua resolução)
 - facilitar a manunteção do código em um estado saudável
@@ -102,7 +91,6 @@ Responding to change over following a plan
 
 
 12.
-
 Por que iteraçoes?
 - ciclo de feedback curto
 - alinhar o real objetivo do software utilizando o conhecimento adquirido durante o desenvolvimento
@@ -114,7 +102,6 @@ Incentivar:
 - Responder a mudanca de ideias com mais rapidez
 
 13.
-
 Por que retrospectiva?
 - analisar o andamento do desenvolvimento
 - corrigir alguma decisao incorreta
@@ -125,17 +112,14 @@ Incentivar:
 - Adaptar o processo para o melhor resultado possivel
 
 14.
-
 Apenas aplicando estas tecnicas te fazem agil?
 Nao?
 Por que?
 
 15.
-
 Apenas aplicar as tecnicas garantem sucesso?
 
 16.
-
 Práticas dependem do time, do projeto, do ambiente.
 (experiencias)
 - falar como eh um projeto agil
@@ -144,22 +128,18 @@ Práticas dependem do time, do projeto, do ambiente.
 - o que agil nesse contexto (acho que isso pode ficar mais pro fim, quem sabe)
 
 17.
-
 Paralelo com metodologias tradicionais.
 [quem sabe colocar essa parte antes?]
 
 18.
-
 Como saber quando aplicar essas praticas?
 Quando mudar as praticas?
 !Entendendo as ideias.!
 
 19.
-
 E X E M P L O S
 
 20.
-
 I D E I A S
 Entrega de valor com frequencia: (e em menos tempo) | Time to market | $$
 - usando iteracoes com um tempo definido e que faca sentido para a estrutura do projeto
@@ -168,7 +148,6 @@ Entrega de valor com frequencia: (e em menos tempo) | Time to market | $$
   pensados
 
 21.
-
 Comunicacao:
 - com programacao em par tens a vantagem de code review on the fly, dois desenvolvedores
   com background diferentes e com approaches diferentes, o que beneficia uma solucao
@@ -179,7 +158,6 @@ Comunicacao:
   ate sobre uma solucao de para um problema recorrente
 
 22.
-
 Colaboracao:
 - ter o cliente por perto como parte integrante do time beneficia um melhor entendimento
   sobre o dominio e sobre a solucao desejada. Torna a atividade de desenvolvimento menos
@@ -188,7 +166,6 @@ Colaboracao:
   o principal valor para o cliente.
 
 23.
-
 Atividade Intelectual e criativa:
 - seres humanos sao seres criativos e nao funcionam como maquinas. Manter as pessoas 8h
   na frente de um computador nao garante produdividade e nem qualidade. Eh mais efetivo
@@ -197,7 +174,6 @@ Atividade Intelectual e criativa:
   livre de arcadismos colabora fortemente nesse quesito.
 
 24.
-
 Qualidade:
 - qualidade de codigo e produto final eh um ponto muito relativo. O que faz geralmente
   uma abordagem agil ser mais efetiva eh o que se entende como qualidade. Qualidade
@@ -207,7 +183,6 @@ Qualidade:
   qualidade fortemente nesse sentido.
 
 25.
-
 Processo adaptativo:
 - o maior valor dos metodos ditos ageis eh a abordagem adaptativa que tomam. Responder
   a mudanca de requesitos durante o desenvolvimento eh fundamental para chegar a um 
@@ -219,7 +194,6 @@ Processo adaptativo:
   a maior possibilidade de sucesso (atingir as expectativa$$$ do cliente)
 
 26.
-
 Feedback curto | Change change change
 - o feedback curto eh um ponto relevante em varios niveis em uma abordagem agil.
   Pode-se ver o feedback curto durante a programacao em par, onde um dos integrantes
