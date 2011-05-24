@@ -169,6 +169,14 @@ Entrega de valor com frequencia: (e em menos tempo) | Time to market | $$
   pensados
 
 Comunicacao:
+- com programacao em par tens a vantagem de code review on the fly, dois desenvolvedores
+  com background diferentes e com approaches diferentes, o que beneficia uma solucao
+  diferenciada geralmente
+- um ambiente aberto propicia a comunicacao entre diferentes partes do time de 
+  desenvolvimento, facilitando a resolucao de bloqueios (ai inclue-se as stand-ups)
+  e o compartilhamento de conhecimento sobre tecnologias, dominio da aplicacao ou 
+  ate sobre uma solucao de para um problema recorrente
+
 Colaboracao:
 Atividade Intelectual e criativa:
 Qualidade:
